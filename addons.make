@@ -1,0 +1,13 @@
+ofxAbletonLink
+ofxBenG
+ofxBlackmagic
+ofxEasing
+ofxIntersection
+ofxKinect
+ofxMidi
+ofxMidiFighterTwister
+ofxOpenCv
+ofxOsc
+ofxPS3EyeGrabber
+ofxPlaymodes
+ofxXmlSettings

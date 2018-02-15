@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SourceSwitcher Release" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SourceSwitcher" TARGET_NAME="SourceSwitcher" CONFIG_NAME="Release" SCHEME_NAME="SourceSwitcher Release" RUN_TARGET_PROJECT_NAME="SourceSwitcher" RUN_TARGET_NAME="SourceSwitcher" MAKE_ACTIVE="TRUE">
+    <envs />
+    <method />
+  </configuration>
+</component>
